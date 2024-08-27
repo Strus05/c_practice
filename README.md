@@ -41,9 +41,12 @@
 >[Задача 3](https://github.com/Strus05/c_practice/blob/master/Массивы/case3.c)<br>
 >[Задача 4](https://github.com/Strus05/c_practice/blob/master/Массивы/case4.c)<br>
 
-
 Ввод с консоли
-
+>[Задача 1](https://github.com/Strus05/c_practice/blob/master/Ввод%20с%20консоли/case1.c)<br>
+>[Задача 2](https://github.com/Strus05/c_practice/blob/master/Ввод%20с%20консоли/case2.c)<br>
+>[Задача 3](https://github.com/Strus05/c_practice/blob/master/Ввод%20с%20консоли/case3.c)<br>
+>[Задача 4](https://github.com/Strus05/c_practice/blob/master/Ввод%20с%20консоли/case4.c)<br>
+>[Задача 5](https://github.com/Strus05/c_practice/blob/master/Ввод%20с%20консоли/case5.c)<br>
 
 ## Глава 2. Указатели
 Что такое указатели
