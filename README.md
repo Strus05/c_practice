@@ -50,16 +50,19 @@
 
 ## Глава 2. Указатели
 Что такое указатели
-
+>[Задача 1](https://github.com/Strus05/c_practice/blob/master/Что%20такое%20указатели/case1.c)<br>
+>[Задача 2](https://github.com/Strus05/c_practice/blob/master/Что%20такое%20указатели/case2.c)<br>
 
 Константы и указатели
-
+>[Задача 1](https://github.com/Strus05/c_practice/blob/master/Константы%20и%20указатели/case1.c)<br>
 
 Указатели, массивы и строки
-
+>[Задача 1](https://github.com/Strus05/c_practice/blob/master/Указатели%2C%20массивы%20и%20строки/case1.c)<br>
+>[Задача 2](https://github.com/Strus05/c_practice/blob/master/Указатели%2C%20массивы%20и%20строки/case2.c)<br>
+>[Задача 3](https://github.com/Strus05/c_practice/blob/master/Указатели%2C%20массивы%20и%20строки/case3.c)<br>
 
 Массив указателей
-
+>[Задача 1](https://github.com/Strus05/c_practice/blob/master/Массив%20указателей/case1.c)<br>
 
 ## Глава 3. Функции
 Определение и описание функций
