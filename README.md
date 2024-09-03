@@ -66,13 +66,17 @@
 
 ## Глава 3. Функции
 Определение и описание функций
-
+>[Задача 1](https://github.com/Strus05/c_practice/blob/master/Определение%20и%20описание%20функций/case1.c)<br>
+>[Задача 2](https://github.com/Strus05/c_practice/blob/master/Определение%20и%20описание%20функций/case2.c)<br>
 
 Параметры функции
-
+>[Задача 1](https://github.com/Strus05/c_practice/blob/master/Параметры%20функции/case1.c)<br>
+>[Задача 2](https://github.com/Strus05/c_practice/blob/master/Параметры%20функции/case2.c)<br>
 
 Результат функции
-
+>[Задача 1](https://github.com/Strus05/c_practice/blob/master/Результат%20функции/case1.c)<br>
+>[Задача 2](https://github.com/Strus05/c_practice/blob/master/Результат%20функции/case2.c)<br>
+>[Задача 3](https://github.com/Strus05/c_practice/blob/master/Результат%20функции/case3.c)<br>
 
 Указатели в параметрах функции
 
